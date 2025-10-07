@@ -1,42 +1,62 @@
-<!-- Profile README for github.com/CedrickGD -->
-<!-- Blue ↔ Pink minimal theme, modest bio, no “pro” claims -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CedrickGD&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=CedrickGD&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
 </p>
 
 # Cedrick
 
 I tinker with code as a **hobby**—mostly tooling for games and small apps.  
-Apprenticeship @ **Telekom**. Always learning, nothing too serious.
+Apprenticeship @ **Telekom**. Always learning.
 
 ---
 
 ## GitHub Stats
 
+<!-- 2x2 “boxed” layout: top = streak (single), bottom = stats + languages -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <!-- Streak card (includes Total Contributions, Current streak, Longest streak) -->
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=CedrickGD&hide_border=true&background=0D1117&ring=8a7cfb&fire=ae81ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=8a7cfb&dates=8aa1b8"
+        alt="Contribution Streak"
+        height="170"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Core stats -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=CedrickGD&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8a7cfb&text_color=c9d1d9&icon_color=ae81ff"
+        alt="GitHub stats"
+        height="170"
+      />
+    </td>
+    <td align="center">
+      <!-- Top languages -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedrickGD&layout=compact&hide_border=true&bg_color=0d1117&title_color=8a7cfb&text_color=c9d1d9"
+        alt="Top Languages"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- Optional extra “box”: trophies (remove this block if you don’t want it) -->
 <p align="center">
-  <!-- Core stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CedrickGD&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8a7cfb&text_color=c9d1d9&icon_color=ff79c6"
-    alt="GitHub stats" height="165">
-  <!-- Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=CedrickGD&hide_border=true&background=0D1117&ring=8a7cfb&fire=ff79c6&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=8a7cfb&dates=8aa1b8"
-    alt="GitHub streak" height="165">
+    src="https://github-profile-trophy.vercel.app/?username=CedrickGD&theme=onestar&no-frame=true&no-bg=true&margin-w=10&title=Commits,Issues,PullRequest,Repositories,Stars"
+    alt="Trophies"
+  />
 </p>
 
+<!-- Contribution activity graph (blue/violet) -->
 <p align="center">
-  <!-- Top languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedrickGD&layout=compact&hide_border=true&bg_color=0d1117&title_color=8a7cfb&text_color=c9d1d9"
-    alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <!-- Contribution activity graph (blue/pink dark) -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CedrickGD&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=8a7cfb&line=ff79c6&point=ffffff&custom_title=Contribution%20Graph"
-    alt="Contribution Graph">
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CedrickGD&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=8a7cfb&line=ae81ff&point=ffffff&custom_title=Contribution%20Graph"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -45,7 +65,7 @@ Apprenticeship @ **Telekom**. Always learning, nothing too serious.
 
 <p align="center">
   <a href="https://music.youtube.com/playlist?list=PLpDkO449oihfIDD5iwS8s70vrtV-gR7M9&si=2RP_dLBrkNLo_CZi" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-YouTube%20Music-ff0033?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music playlist">
+    <img src="https://img.shields.io/badge/Now_Playing-YouTube%20Music-8a7cfb?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music playlist">
   </a>
 </p>
 
@@ -67,4 +87,3 @@ Apprenticeship @ **Telekom**. Always learning, nothing too serious.
 
 - Discord: **itssomeguy.**
 - Apprenticeship: **@Telekom**
-
