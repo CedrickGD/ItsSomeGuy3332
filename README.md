@@ -1,21 +1,25 @@
+<!-- Profile README for github.com/CedrickGD -->
+<!-- Blue/Violet minimal theme, tidy boxed layout -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CedrickGD&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
 </p>
 
 # Cedrick
 
-I tinker with code as a **hobby**—mostly tooling for games and small apps.  
-Apprenticeship @ **Telekom**. Always learning.
+Hobby dev — I build small game tools and utility apps.  
+Apprenticeship @ **Telekom**.
 
 ---
 
 ## GitHub Stats
 
-<!-- 2x2 “boxed” layout: top = streak (single), bottom = stats + languages -->
-<table align="center" width="100%">
+<div align="center" style="max-width: 980px; margin: auto;">
+
+<table>
   <tr>
     <td align="center" colspan="2">
-      <!-- Streak card (includes Total Contributions, Current streak, Longest streak) -->
+      <!-- Streak card (shows Total Contributions, Current & Longest Streak) -->
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=CedrickGD&hide_border=true&background=0D1117&ring=8a7cfb&fire=ae81ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=8a7cfb&dates=8aa1b8"
         alt="Contribution Streak"
@@ -33,9 +37,9 @@ Apprenticeship @ **Telekom**. Always learning.
       />
     </td>
     <td align="center">
-      <!-- Top languages -->
+      <!-- Top languages (keep default language colors) -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedrickGD&layout=compact&hide_border=true&bg_color=0d1117&title_color=8a7cfb&text_color=c9d1d9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedrickGD&layout=compact&hide_border=true&bg_color=0d1117"
         alt="Top Languages"
         height="170"
       />
@@ -43,15 +47,9 @@ Apprenticeship @ **Telekom**. Always learning.
   </tr>
 </table>
 
-<!-- Optional extra “box”: trophies (remove this block if you don’t want it) -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=CedrickGD&theme=onestar&no-frame=true&no-bg=true&margin-w=10&title=Commits,Issues,PullRequest,Repositories,Stars"
-    alt="Trophies"
-  />
-</p>
+</div>
 
-<!-- Contribution activity graph (blue/violet) -->
+<!-- Contribution activity graph -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=CedrickGD&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=8a7cfb&line=ae81ff&point=ffffff&custom_title=Contribution%20Graph"
@@ -65,7 +63,7 @@ Apprenticeship @ **Telekom**. Always learning.
 
 <p align="center">
   <a href="https://music.youtube.com/playlist?list=PLpDkO449oihfIDD5iwS8s70vrtV-gR7M9&si=2RP_dLBrkNLo_CZi" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-YouTube%20Music-8a7cfb?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music playlist">
+    <img src="https://img.shields.io/badge/Now_Playing-YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music playlist">
   </a>
 </p>
 
