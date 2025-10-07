@@ -84,4 +84,3 @@ Apprenticeship @ **Telekom**.
 ## Contact
 
 - Discord: **itssomeguy.**
-- Apprenticeship: **@Telekom**
