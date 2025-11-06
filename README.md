@@ -1,10 +1,6 @@
 <!-- Profile README for github.com/CedrickGD -->
 <!-- Blue/Violet minimal theme, tidy boxed layout -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CedrickGD&label=Profile%20Views&color=8a7cfb&style=flat" alt="profile views">
-</p>
-
 # Cedrick
 
 Hobby dev — I build small game tools and utility apps.  
